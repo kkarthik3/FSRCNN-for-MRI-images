@@ -8,6 +8,7 @@ from io import BytesIO
 def predict_hr_image(model, lr_image):
     # Preprocess the LR image
     lr_image_resized = transform.resize(lr_image, (64, 64, 1))
+    
     lr_image_resized = np.expand_dims(lr_image_resized, axis=0)
 
     # Predict using the model
