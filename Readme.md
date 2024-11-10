@@ -67,14 +67,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 [Your chosen license]
 
-## 🙏 Acknowledgments
-- Medical imaging community for training data
-- Streamlit team for the web framework
-- Keras team for the deep learning framework
-
-## 📧 Contact
-[Your contact information]
-
 ## 🔮 Future Improvements
 - Support for batch processing
 - Additional upscaling factors
